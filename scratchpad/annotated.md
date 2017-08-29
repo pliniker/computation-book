@@ -97,10 +97,10 @@ and or xor not
 ; 6. Conditionals
 ; Machine abstraction level 2
 
-(if ...)
-(cond ...)
+; (if ...)
+; (cond ...)
 
 ; 7. User-defined functions
 ; Machine abstraction level 3
 
-(defn ...)
+; (defn ...)
